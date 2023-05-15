@@ -1,2 +1,2 @@
-#!/usr/bin/pythod
-print("today is sunday")
+#!/usr/bin/python
+print("today")
